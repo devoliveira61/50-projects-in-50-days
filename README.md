@@ -26,6 +26,6 @@
  ### Day 4 - Hidden Search Widget
  
  <p>Search bar, animated with CSS</p>
- <strong><a href="devoliveira-search.surge.sh">click me and check the project</a></strong>
+ <strong><a href="https://devoliveira-search.surge.sh">click me and check the project</a></strong>
  
  ![image](https://user-images.githubusercontent.com/98242025/178393333-5cd6c242-2784-4ab7-a584-240991210214.png)
