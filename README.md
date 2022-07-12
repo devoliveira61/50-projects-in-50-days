@@ -6,7 +6,6 @@
 <strong><a href="https://devoliveira-expanding-card.surge.sh">Click me and check the project</a></strong>
 
 
-
 ![Day 1](https://user-images.githubusercontent.com/98242025/158743223-6fa21b97-7282-4b29-815c-8080d8804d8b.png)
 
 ### Day 2 - Progress Steps
@@ -24,4 +23,9 @@
 
 ![image](https://user-images.githubusercontent.com/98242025/163698418-4e60a125-b8c4-471c-a3cc-ddbafddce4de.png)
 
+ ### Day 4 - Hidden Search Widget
  
+ <p>Search bar, animated with CSS</p>
+ <strong><a href="devoliveira-search.surge.sh">click me and check the project</a></strong>
+ 
+ ![image](https://user-images.githubusercontent.com/98242025/178393333-5cd6c242-2784-4ab7-a584-240991210214.png)
