@@ -29,3 +29,10 @@
  <strong><a href="https://devoliveira-search.surge.sh">click me and check the project</a></strong>
  
  ![image](https://user-images.githubusercontent.com/98242025/178393333-5cd6c242-2784-4ab7-a584-240991210214.png)
+
+ ### Day 5 - Blurry Loading
+ 
+ <p>Loading, animated with CSS</p>
+ <strong><a href="https://blurry-loading-oliveira.surge.sh">click me and check the project</a></strong>
+ 
+![5](https://user-images.githubusercontent.com/98242025/179015518-f6601310-a41a-4a5e-8aeb-df0491b15fef.gif)
