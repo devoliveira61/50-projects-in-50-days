@@ -36,3 +36,10 @@
  <strong><a href="https://blurry-loading-oliveira.surge.sh">click me and check the project</a></strong>
  
 ![5](https://user-images.githubusercontent.com/98242025/179015518-f6601310-a41a-4a5e-8aeb-df0491b15fef.gif)
+
+ ### Day 6 - Scroll Animation
+ 
+ <p>Scroll Animation, animated with CSS and JS</p>
+ <strong><a href="https://scroll-animation-oliveira.surge.sh/">click me and check the project</a></strong>
+ 
+![6](https://user-images.githubusercontent.com/98242025/179328327-fa836c3f-7700-4f75-bc9e-92287040ee07.gif)
