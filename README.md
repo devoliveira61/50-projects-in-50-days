@@ -43,3 +43,11 @@
  <strong><a href="https://scroll-animation-oliveira.surge.sh/">click me and check the project</a></strong>
  
 ![6](https://user-images.githubusercontent.com/98242025/179328327-fa836c3f-7700-4f75-bc9e-92287040ee07.gif)
+
+ ### Day 7 - Split Landing Page
+ 
+ <p>Split Landing Page, animate with CSS and JS</p>
+ <strong><a href="https://split-landing-page-oliveira.surge.sh/">click me and check the project</a></strong>
+ 
+![7](https://user-images.githubusercontent.com/98242025/179379935-44adddde-ab23-449d-8f08-77643fecc264.gif)
+
